@@ -1,10 +1,3 @@
----
-title: Introduction to Nanopore Sequencing 
-author: Biowr
-date: 2022-05-29 04:13:36
-tags: Bioinformatics
----
-
 今天，会和大家谈一下最近我学习Nanopore测序，得到的对Nanopore测序的一些认识。Nanopore测序有两个最大的特点，第一个特点是仪器非常轻便，小型的MinION测序仪只有手机那么大小，重量是90克。第二个特点，是测序读长可以做到非常长。我看到的数据，最长的读长可以达到30万~40万个碱基也因为Nanopore有这样两个优点，它最近得到了测序界的广泛关注。
 
 ------
